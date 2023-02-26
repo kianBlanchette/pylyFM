@@ -1,0 +1,7 @@
+test code
+add extra functions 
+add more documentation
+explore jackknifing
+downsampling
+wheelio
+benchmark against R
