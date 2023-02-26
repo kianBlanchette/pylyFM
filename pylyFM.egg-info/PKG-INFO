@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pylyFM
+Version: 0.1
+Summary: Polynomial frequency modulatied line component detection
+Home-page: https://github.com/kianBlanchette/pylyFM
+Author: Kian Blanchette
+Author-email: kmlb@pm.me
