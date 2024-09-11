@@ -91,7 +91,7 @@ def dpss_deriv(V,ev,NW):
   tnw = [2 * np.pi * W * t for t in rng]
   tn2 = [t**2 for t in rng]
   
-  b = np.insert(np.sin(tnw) / tn2, 0, 0)
+  b = np.insert(np.sin(tnw) / (pi * tn2), 0, 0)
   a = np.insert(2 * W * np.cos(tnw) / tn, 0, 0)
   y = a - b
 
